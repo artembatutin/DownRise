@@ -1,0 +1,18 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Actor/Actor.tpsheet
+- Assets/Resources/Ground/Ground.tpsheet
+- Assets/Resources/Node/Node.tpsheet
+- Assets/Resources/UI/Panel.tpsheet
+textureFileNames:
+- Assets/Resources/Actor/Actor.png
+- Assets/Resources/Ground/Ground.png
+- Assets/Resources/Node/Node.png
+- Assets/Resources/UI/Panel.png
+normalmapFileNames:
+- Assets/Resources/Actor/Actor_n.png
+- Assets/Resources/Ground/Ground_n.png
+- Assets/Resources/Node/Node_n.png
+- 
+enableDebugOutput: 0

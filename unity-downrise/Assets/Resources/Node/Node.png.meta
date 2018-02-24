@@ -1,0 +1,3427 @@
+fileFormatVersion: 2
+guid: 144be77e3b6ec4b29b923913de980f13
+timeCreated: 1509913712
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Node_0
+    21300002: Node_1
+    21300004: Node_2
+    21300006: Node_3
+    21300008: Node_4
+    21300010: Node_5
+    21300012: Node_6
+    21300014: Node_7
+    21300016: Node_8
+    21300018: Node_9
+    21300020: Node_10
+    21300022: Node_11
+    21300024: Node_12
+    21300026: Node_13
+    21300028: Node_14
+    21300030: Node_15
+    21300032: Node_16
+    21300034: Node_17
+    21300036: Node_18
+    21300038: Node_19
+    21300040: Node_20
+    21300042: Node_21
+    21300044: Node_22
+    21300046: Node_23
+    21300048: Node_24
+    21300050: Node_25
+    21300052: Node_26
+    21300054: Node_27
+    21300056: Node_28
+    21300058: Node_29
+    21300060: Node_30
+    21300062: Node_31
+    21300064: Node_32
+    21300066: Node_33
+    21300068: Node_34
+    21300070: Node_35
+    21300072: Node_36
+    21300074: Node_37
+    21300076: Node_38
+    21300078: Node_39
+    21300080: Node_40
+    21300082: Node_41
+    21300084: Node_42
+    21300086: Node_43
+    21300088: Node_44
+    21300090: Node_45
+    21300092: Node_46
+    21300094: Node_47
+    21300096: Node_48
+    21300098: Node_49
+    21300100: Node_50
+    21300102: Node_51
+    21300104: Node_52
+    21300106: Node_53
+    21300108: Node_54
+    21300110: Node_55
+    21300112: Node_56
+    21300114: Node_57
+    21300116: Node_58
+    21300118: Node_59
+    21300120: Node_60
+    21300122: Node_61
+    21300124: Node_62
+    21300126: Node_63
+    21300128: Node_64
+    21300130: Node_65
+    21300132: Node_66
+    21300134: Node_67
+    21300136: Node_68
+    21300138: Node_69
+    21300140: Node_70
+    21300142: Node_71
+    21300144: Node_72
+    21300146: Node_73
+    21300148: Node_74
+    21300150: Node_75
+    21300152: Node_76
+    21300154: Node_77
+    21300156: Node_78
+    21300158: Node_79
+    21300160: Node_80
+    21300162: Node_81
+    21300164: Node_82
+    21300166: Node_83
+    21300168: Node_84
+    21300170: Node_85
+    21300172: Node_86
+    21300174: Node_87
+    21300176: Node_88
+    21300178: Node_89
+    21300180: Node_90
+    21300182: Node_91
+    21300184: Node_92
+    21300186: Node_93
+    21300188: Node_94
+    21300190: Node_95
+    21300192: Node_96
+    21300194: Node_97
+    21300196: Node_98
+    21300198: Node_99
+    21300200: Node_100
+    21300202: Node_101
+    21300204: Node_102
+    21300206: Node_103
+    21300208: Node_104
+    21300210: Node_105
+    21300212: Node_106
+    21300214: Node_107
+    21300216: Node_108
+    21300218: Node_109
+    21300220: Node_110
+    21300222: Node_111
+    21300224: Node_112
+    21300226: Node_113
+    21300228: Node_114
+    21300230: Node_115
+    21300232: Node_116
+    21300234: Node_117
+    21300236: Node_118
+    21300238: Node_119
+    21300240: Node_120
+    21300242: Node_121
+    21300244: Node_122
+    21300246: Node_123
+    21300248: Node_124
+    21300250: Node_125
+    21300252: Node_126
+    21300254: Node_127
+    21300256: Node_128
+    21300258: Node_129
+    21300260: Node_130
+    21300262: Node_131
+    21300264: Node_132
+    21300266: Node_133
+    21300268: Node_134
+    21300270: Node_135
+    21300272: Node_136
+    21300274: Node_137
+    21300276: Node_138
+    21300278: Node_139
+    21300280: Node_140
+    21300282: Node_141
+    21300284: Node_142
+    21300286: Node_143
+    21300288: Node_144
+    21300290: Node_145
+    21300292: Node_146
+    21300294: Node_147
+    21300296: Node_148
+    21300298: Node_149
+    21300300: Node_150
+    21300302: Node_151
+    21300304: Node_152
+    21300306: Node_153
+    21300308: Node_154
+    21300310: Node_155
+    21300312: Node_156
+    21300314: Node_157
+    21300316: Node_158
+    21300318: Node_159
+    21300320: Node_160
+    21300322: Node_161
+    21300324: Node_162
+    21300326: Node_163
+    21300328: Node_164
+    21300330: Node_165
+    21300332: Node_166
+    21300334: Node_167
+    21300336: Node_168
+    21300338: Node_169
+    21300340: Node_170
+    21300342: Node_171
+    21300344: Node_172
+    21300346: Node_173
+    21300348: Node_174
+    21300350: Node_175
+    21300352: Node_176
+    21300354: Node_177
+    21300356: Node_178
+    21300358: Node_179
+    21300360: Node_180
+    21300362: Node_181
+    21300364: Node_182
+    21300366: Node_183
+    21300368: Node_184
+    21300370: Node_185
+    21300372: Node_186
+    21300374: Node_187
+    21300376: Node_188
+    21300378: Node_189
+    21300380: Node_190
+    21300382: Node_191
+    21300384: Node_192
+    21300386: Node_193
+    21300388: Node_194
+    21300390: Node_195
+    21300392: Node_196
+    21300394: Node_197
+    21300396: Node_198
+    21300398: Node_199
+    21300400: Node_200
+    21300402: Node_201
+    21300404: Node_202
+    21300406: Node_203
+    21300408: Node_204
+    21300410: Node_205
+    21300412: Node_206
+    21300414: Node_207
+    21300416: Node_208
+    21300418: Node_209
+    21300420: Node_210
+    21300422: Node_211
+    21300424: Node_212
+    21300426: Node_213
+    21300428: Node_214
+    21300430: Node_215
+    21300432: Node_216
+    21300434: Node_217
+    21300436: Node_218
+    21300438: Node_219
+    21300440: Node_220
+    21300442: Node_221
+    21300444: Node_222
+    21300446: Node_223
+    21300448: Node_224
+    21300450: Node_225
+    21300452: Node_226
+    21300454: Node_227
+    21300456: Node_228
+    21300458: Node_229
+    21300460: Node_230
+    21300462: Node_231
+    21300464: Node_232
+    21300466: Node_233
+    21300468: Node_234
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Node_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 239
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 252
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 187
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 213
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 226
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 200
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 903
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 967
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 936
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 965
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 998
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1606
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1743
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1573
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1913
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1743
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1811
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1783
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 345
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 841
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 770
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 265
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 484
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 398
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1811
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 434
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 834
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1581
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1695
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 526
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 587
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1913
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 679
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 618
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1403
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 251
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 498
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 70
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1607
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1669
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 556
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 496
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1029
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 397
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 265
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_62
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1885
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 506
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 478
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 456
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 459
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1044
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 516
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1851
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 379
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1817
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 811
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2021
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1064
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 27
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_83
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 151
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 379
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 436
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 361
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_89
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 417
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.8333333, y: 0.9230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 803
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.55172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1845
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1369
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_95
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1742
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 289
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 229
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1097
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 996
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_103
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1981
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1097
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_107
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1063
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1947
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1913
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_110
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1810
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_115
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1609
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_119
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_120
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1723
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_121
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_124
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_127
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1674
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1987
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_133
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 64
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_134
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_136
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_137
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_138
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1403
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_139
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1539
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1573
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1539
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_143
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1953
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_145
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 83
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1919
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1369
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1437
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_149
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1675
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_151
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1981
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1947
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1879
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1709
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1207
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: 1.3333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_157
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1241
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: -0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_158
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1309
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_159
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 317
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1479
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 1.0666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_163
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1445
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: -0.06666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_164
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1547
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1513
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_166
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1173
+        width: 10
+        height: 32
+      alignment: 9
+      pivot: {x: 1.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_167
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 10
+        height: 32
+      alignment: 9
+      pivot: {x: -0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_168
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1343
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_169
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1275
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 900
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 873
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 740
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_174
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_175
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_176
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1709
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_177
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1777
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_178
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1845
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_179
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1505
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_180
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_182
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 303
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_183
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 140
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_184
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_185
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1641
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_186
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1607
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_187
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 417
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: -0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_188
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 1.0666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_189
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 26
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_191
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 183
+        width: 32
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_192
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 32
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 1.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_193
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 345
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_194
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 331
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_195
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1947
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_196
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1131
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1063
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_200
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 434
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_201
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1641
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_202
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2015
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1029
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_204
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1981
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_206
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1139
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: 1.7777778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_207
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 137
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: -0.7777778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_210
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_211
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1097
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_212
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1411
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 1.0666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_213
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1377
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: -0.06666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_214
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1749
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_215
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1635
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_216
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1010
+        width: 10
+        height: 32
+      alignment: 9
+      pivot: {x: 1.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_217
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 10
+        height: 32
+      alignment: 9
+      pivot: {x: -0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_218
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 311
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Node_219
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1675
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

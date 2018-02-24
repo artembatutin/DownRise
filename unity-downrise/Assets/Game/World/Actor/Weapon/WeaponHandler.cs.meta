@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 447a506f90b8f0b448c33ca6a46a3ba8
+timeCreated: 1510164254
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - muzzleFlash: {fileID: 198299555250553288, guid: 2fdd5cbec5f094852b937166ea42aa90,
+      type: 2}
+  - bulletSpark: {fileID: 198611717367679274, guid: 9352bbb509c8a4f24a621a1d022c64fb,
+      type: 2}
+  - bulletMat: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - weapon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
